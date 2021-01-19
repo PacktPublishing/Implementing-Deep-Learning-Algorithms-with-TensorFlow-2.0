@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/implementing-deep-learning-algorithms-with-tensorflow-2-0-video/9781789950496)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0
 
 This is the code repository for [Implementing Deep Learning Algorithms with TensorFlow 2.0 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/implementing-deep-learning-algorithms-tensorflow-20-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
