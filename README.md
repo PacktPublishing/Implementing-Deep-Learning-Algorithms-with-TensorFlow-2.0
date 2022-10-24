@@ -39,3 +39,7 @@ Python, Jupyter notebook, TensorFlow and some more packages<br/>
 * [Hands-On Deep Learning with TensorFlow 2.0 [Video]](https://www.packtpub.com/application-development/hands-deep-learning-tensorflow-20-video)
 
 * [Hands-On Neural Network Programming with TensorFlow [Video]](https://www.packtpub.com/application-development/hands-neural-network-programming-tensorflow-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789950496">https://packt.link/free-ebook/9781789950496 </a> </p>
